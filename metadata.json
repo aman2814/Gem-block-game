@@ -1,0 +1,6 @@
+{
+  "name": "Gem Block",
+  "description": "Mobile-first 8x8 gem block puzzle game with drag-and-drop placement, particle line-clear bursts, color-match gem shifting, and synthesized Web Audio SFX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
